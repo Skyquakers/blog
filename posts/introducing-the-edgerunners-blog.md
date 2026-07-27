@@ -1,4 +1,5 @@
 ---
+article_id: introducing-the-edgerunners-blog
 title: Introducing the EdgeRunners Blog
 description: Product updates, practical game-server guides, and engineering notes from the EdgeRunners team.
 date: 2026-07-28T00:00:00+09:00

@@ -13,10 +13,12 @@ posts/running-a-palworld-server.md
 https://edgerunners.cn/blog/running-a-palworld-server
 ```
 
-Every post starts with YAML frontmatter:
+Every post starts with YAML frontmatter. Keep `article_id` identical to the
+filename without `.md`; Decap CMS uses it when creating new files:
 
 ```md
 ---
+article_id: running-a-palworld-server
 title: Running a Palworld server
 description: A short summary shown on the blog index.
 date: 2026-07-28T00:00:00+09:00
