@@ -1,11 +1,9 @@
 ---
 article_id: installer-api
 title: 其他网站现在可以往 PixelCloud 的服务器里安装 mod
-description: 
+description: 其他模组网站和社区现在可以和 PixelCloud 联动
 date: 2026-07-28T11:07:00+09:00
-author: PixelCloud
-tags:
-  - openapi
+author: Jury
 draft: false
 ---
 
